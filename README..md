@@ -1,4 +1,4 @@
- # Мій перший сайт   [SonyUA](SonyUA.github.io)
+ # Мій перший сайт   [SonyUA](https://SonyUA.github.io)
 
 ## Інтернет магазин - наручних годинників.
 
